@@ -1,5 +1,6 @@
 .App {
   text-align: center;
+  padding-bottom:60px;
 }
 
 .App-logo {
@@ -8,7 +9,7 @@
 }
 
 .App-header {
-  background-color: #ffc8a8;
+  background-color: #3f4c3f;
   height: 170px;
   padding: 20px;
   color: #969696;
@@ -26,4 +27,30 @@
 @keyframes App-logo-spin {
   from { transform: rotate(0deg); }
   to { transform: rotate(360deg); }
+}
+
+.App-footer {
+  position:absolute;
+  left:0;
+  bottom:0;
+  right:0;
+  background-color: #8e8e8e;
+  height: 20px;
+  padding: 20px;
+  color: #fcfcfc;
+}
+
+.buttons {
+  border-radius: 5px;
+  height: 50px;
+  width: 200px;
+  border: 1px solid;
+  background: #3f4c3f;
+  font-size: 100%;
+  color: #FFF;
+  -webkit-transition-duration: 0.4s;
+  transition-duration: 0.4s;
+}
+.buttons:hover {
+  box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24),0 17px 50px 0 rgba(0,0,0,0.19);
 }
