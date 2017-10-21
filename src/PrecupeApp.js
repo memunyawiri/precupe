@@ -29,4 +29,4 @@ class PrecupeApp extends Component {
   }
 }
 
-export default App;
+export default PrecupeApp;

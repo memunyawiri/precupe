@@ -2,9 +2,6 @@
 
 # dependencies
 /node_modules
-/jspm_packages
-.DS_Store
-/public
 
 # testing
 /coverage
@@ -13,6 +10,7 @@
 /build
 
 # misc
+.gitignore
 .DS_Store
 .env.local
 .env.development.local
