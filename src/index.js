@@ -1,9 +1,10 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
-import App from './App';
+import PrecupeApp from './PrecupeApp';
+import NewRecipe from './NewRecipe'
 import registerServiceWorker from './registerServiceWorker';
 
 
-ReactDOM.render(<App />, document.getElementById('root'));
-registerServiceWorker();
+ReactDOM.render(<PrecupeApp />, document.getElementById('root'));
+registerServiceWorker('/');

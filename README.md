@@ -11,8 +11,3 @@ Users can also localise or tailor existing recipes by editing the following reci
 - Cooking equipment
 - Ingredients - substitutes or additions
 - Cooking methods
-
-### How to run the app
-- Clone this repo
-- $ cd precupe
-- $ yarn start
