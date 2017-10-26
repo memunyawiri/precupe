@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 import logo from './logo.svg';
-import './PrecupeApp.css';
+import './precupeApp.css';
 
 class PrecupeApp extends Component {
   render() {
