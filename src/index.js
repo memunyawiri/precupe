@@ -1,8 +1,7 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
-import PrecupeApp from './PrecupeApp';
-import NewRecipe from './NewRecipe'
+import PrecupeApp from './precupeApp';
 import registerServiceWorker from './registerServiceWorker';
 
 
